@@ -1,0 +1,12 @@
+[
+    {
+        "name": "hello-world",
+        "url": "hello-world.com",
+        "status": "online"
+    },
+    {
+        "name": "azure",
+        "url": "azure-devops.com",
+        "status": "offline"
+    }
+]
